@@ -1,2 +1,2 @@
 # libhello
-Demo library
+Demo "Hello, world!" library
