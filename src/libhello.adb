@@ -1,6 +1,6 @@
 with Ada.Text_IO;
 
-package body libhello is
+package body Libhello is
 
    -----------------
    -- Hello_World --
@@ -12,4 +12,4 @@ package body libhello is
       Put_Line ("Hello, world!");
    end Hello_World;
 
-end libhello;
+end Libhello;

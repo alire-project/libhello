@@ -1,5 +1,5 @@
-package libhello is
+package Libhello is
 
    procedure Hello_World;
 
-end libhello;
+end Libhello;
